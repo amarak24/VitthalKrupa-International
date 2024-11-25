@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.633620a7.css",
+    "main.js": "/static/js/main.f6c12935.js",
+    "static/media/home1.jpg": "/static/media/home1.878f0a213a37f84e1328.jpg",
+    "static/media/logo.png": "/static/media/logo.f9230926009684704ad6.png",
+    "static/media/turmeric.jpeg": "/static/media/turmeric.477f72e095e0d178db3a.jpeg",
+    "static/media/fruit.jpeg": "/static/media/fruit.c6f8de1b052e4477a4df.jpeg",
+    "static/media/egg.jpeg": "/static/media/egg.767c5bbf405d76e3e366.jpeg",
+    "static/media/kaju.jpeg": "/static/media/kaju.a20a42825aac4851c1bb.jpeg",
+    "static/media/onion.jpeg": "/static/media/onion.04ca1534412384830174.jpeg",
+    "static/media/fruits.jpeg": "/static/media/fruits.c495af0b6a4b2ad10581.jpeg",
+    "static/media/Pigeon Pea.jpeg": "/static/media/Pigeon Pea.d14647932f7b815fdb61.jpeg",
+    "static/media/rice.jpeg": "/static/media/rice.8e4775b94351dc5db699.jpeg",
+    "static/media/refresh.png": "/static/media/refresh.7a24bee634a1d2e539be.png",
+    "static/media/water-drop.png": "/static/media/water-drop.f3c9b08cc91e1ecf1a3c.png",
+    "static/media/srilanks.png": "/static/media/srilanks.48c68b5539e5ead046d2.png",
+    "static/media/gear.png": "/static/media/gear.521b79d3ef558608d46b.png",
+    "static/media/phone.png": "/static/media/phone.5a14d9dd71f768819b0d.png",
+    "static/media/case.png": "/static/media/case.30f06a42825dc84d3053.png",
+    "static/media/garlic.jpeg": "/static/media/garlic.fdfab76d9cd958c18bc9.jpeg",
+    "static/media/tools.png": "/static/media/tools.5f4a70d16236621cc7c7.png",
+    "static/media/menuu.png": "/static/media/menuu.a83d8d31b7012b9db00d.png",
+    "static/media/oman.jpg": "/static/media/oman.4c7571b5d79df1372848.jpg",
+    "static/media/bangaladesh.jpg": "/static/media/bangaladesh.2110cc54b341d4219a89.jpg",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.633620a7.css.map": "/static/css/main.633620a7.css.map",
+    "main.f6c12935.js.map": "/static/js/main.f6c12935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633620a7.css",
+    "static/js/main.f6c12935.js"
+  ]
+}
