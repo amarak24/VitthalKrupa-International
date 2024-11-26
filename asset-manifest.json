@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.633620a7.css",
-    "main.js": "/static/js/main.f6c12935.js",
+    "main.css": "/static/css/main.86d74dda.css",
+    "main.js": "/static/js/main.90ad32b1.js",
     "static/media/home1.jpg": "/static/media/home1.878f0a213a37f84e1328.jpg",
     "static/media/logo.png": "/static/media/logo.f9230926009684704ad6.png",
     "static/media/turmeric.jpeg": "/static/media/turmeric.477f72e095e0d178db3a.jpeg",
@@ -25,11 +25,11 @@
     "static/media/bangaladesh.jpg": "/static/media/bangaladesh.2110cc54b341d4219a89.jpg",
     "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/index.html",
-    "main.633620a7.css.map": "/static/css/main.633620a7.css.map",
-    "main.f6c12935.js.map": "/static/js/main.f6c12935.js.map"
+    "main.86d74dda.css.map": "/static/css/main.86d74dda.css.map",
+    "main.90ad32b1.js.map": "/static/js/main.90ad32b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.633620a7.css",
-    "static/js/main.f6c12935.js"
+    "static/css/main.86d74dda.css",
+    "static/js/main.90ad32b1.js"
   ]
 }
